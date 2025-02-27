@@ -13,7 +13,7 @@ class Main {
         scanner.nextLine(); // ✅ 
 
         if (num == 1) {
-            System.out.println("Enter your ID: ");
+            System.out.println("Enter your ID ");
             int id = scanner.nextInt();
             scanner.nextLine(); 
 
